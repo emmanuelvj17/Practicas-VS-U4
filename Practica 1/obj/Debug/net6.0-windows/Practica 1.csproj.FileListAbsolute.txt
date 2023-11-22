@@ -1,0 +1,16 @@
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\bin\Debug\net6.0-windows\Practica 1.exe
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\bin\Debug\net6.0-windows\Practica 1.deps.json
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\bin\Debug\net6.0-windows\Practica 1.runtimeconfig.json
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\bin\Debug\net6.0-windows\Practica 1.dll
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\bin\Debug\net6.0-windows\Practica 1.pdb
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica_1.Form1.resources
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica 1.csproj.GenerateResource.cache
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica 1.AssemblyInfoInputs.cache
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica 1.AssemblyInfo.cs
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica 1.dll
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\refint\Practica 1.dll
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica 1.pdb
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\Practica 1.genruntimeconfig.cache
+C:\Users\GEMELAS\Desktop\Practicas VS U4\Practica 1\obj\Debug\net6.0-windows\ref\Practica 1.dll
